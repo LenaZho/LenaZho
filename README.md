@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LenaZho
 - 👀 I’m interested in Photography
-- 🌱 I’m currently learning QA Manual
-- 💞️ I’m looking to collaborate on educatioanal test projects
+- 🌱 I’m currently Manual QA, struggling to learn Automation
+- 💞️ I’m looking to collaborate on educational test projects
 - 📫 How to reach me: E-mail: lenazhogol@gmail.com or Whatsapp: +380634391318
 
 <!---
